@@ -1,0 +1,86 @@
+{
+  "events": {
+    "day1": [
+      {
+        "id": "1",
+        "event-title": "WFW SHOW",
+        "event-date": "Wed, Nov, 20, 17:00, Westbourne",
+        "event-s-desc": "Westminster Fashion Week Show 2018",
+        "event-time": "18.00",
+        "event-img": "images/cust-images/eventWFW.jpg",
+        "event-l-des": "Westminster fashion show will showcase international as well as local designer wear which will assist to promote many summer wear. This is held at Shalhevet School, Bayeswater, the official hall for fashion. Fashion week designers get a head start on the key trends of the coming season and Will get an opportunity to listen to talks by industry experts. Westminster Fashion Week Festival allows consumers to shop a curated edit of designer collections."
+      },
+      {
+        "id": "2",
+        "event-title": "WFW AWARDS",
+        "event-date": "Wed, Nov, 21, 18:00, Westbourne",
+        "event-s-desc": "Westminster AWARDS 2019",
+        "event-time": "17.00",
+        "event-img": "images/cust-images/eventWFW.jpg",
+        "event-l-des": "Westminster fashion show will showcase international as well as local designer wear which will assist to promote many summer wear. This is held at Shalhevet School, Bayeswater, the official hall for fashion. Fashion week designers get a head start on the key trends of the coming season and Will get an opportunity to listen to talks by industry experts. Westminster Fashion Week Festival allows consumers to shop a curated edit of designer collections."
+      }
+    ],
+    "day2": [
+      {
+        "id": "3",
+        "event-title": "BLAH",
+        "event-date": "Wed, Nov, 20, 17:00, Westbourne",
+        "event-s-desc": "Westminster Fashion Week Show 2018",
+        "event-time": "18.00",
+        "event-img": "images/cust-images/eventWFW.jpg",
+        "event-l-des": "Westminster fashion show will showcase international as well as local designer wear which will assist to promote many summer wear. This is held at Shalhevet School, Bayeswater, the official hall for fashion. Fashion week designers get a head start on the key trends of the coming season and Will get an opportunity to listen to talks by industry experts. Westminster Fashion Week Festival allows consumers to shop a curated edit of designer collections."
+      },
+      {
+        "id": "4",
+        "event-title": "SHIT",
+        "event-date": "Wed, Nov, 21, 18:00, Westbourne",
+        "event-s-desc": "Westminster AWARDS 2019",
+        "event-time": "17.00",
+        "event-img": "images/cust-images/eventWFW.jpg",
+        "event-l-des": "Westminster fashion show will showcase international as well as local designer wear which will assist to promote many summer wear. This is held at Shalhevet School, Bayeswater, the official hall for fashion. Fashion week designers get a head start on the key trends of the coming season and Will get an opportunity to listen to talks by industry experts. Westminster Fashion Week Festival allows consumers to shop a curated edit of designer collections."
+      }
+    ],
+    "day3": [
+      {
+        "id": "4",
+        "event-title": "BLAH",
+        "event-date": "Wed, Nov, 20, 17:00, Westbourne",
+        "event-s-desc": "Westminster Fashion Week Show 2018",
+        "event-time": "18.00",
+        "event-img": "images/cust-images/eventWFW.jpg",
+        "event-l-des": "Westminster fashion show will showcase international as well as local designer wear which will assist to promote many summer wear. This is held at Shalhevet School, Bayeswater, the official hall for fashion. Fashion week designers get a head start on the key trends of the coming season and Will get an opportunity to listen to talks by industry experts. Westminster Fashion Week Festival allows consumers to shop a curated edit of designer collections."
+      },
+      {
+        "id": "5",
+        "event-title": "SHIT",
+        "event-date": "Wed, Nov, 21, 18:00, Westbourne",
+        "event-s-desc": "Westminster AWARDS 2019",
+        "event-time": "17.00",
+        "event-img": "images/cust-images/eventWFW.jpg",
+        "event-l-des": "Westminster fashion show will showcase international as well as local designer wear which will assist to promote many summer wear. This is held at Shalhevet School, Bayeswater, the official hall for fashion. Fashion week designers get a head start on the key trends of the coming season and Will get an opportunity to listen to talks by industry experts. Westminster Fashion Week Festival allows consumers to shop a curated edit of designer collections."
+      }
+    ],
+    "day4": [
+      {
+        "id": "6",
+        "event-title": "BLAH",
+        "event-date": "Wed, Nov, 20, 17:00, Westbourne",
+        "event-s-desc": "Westminster Fashion Week Show 2018",
+        "event-time": "18.00",
+        "event-img": "images/cust-images/eventWFW.jpg",
+        "event-l-des": "Westminster fashion show will showcase international as well as local designer wear which will assist to promote many summer wear. This is held at Shalhevet School, Bayeswater, the official hall for fashion. Fashion week designers get a head start on the key trends of the coming season and Will get an opportunity to listen to talks by industry experts. Westminster Fashion Week Festival allows consumers to shop a curated edit of designer collections."
+      },
+      {
+        "id": "7",
+        "event-title": "SHIT",
+        "event-date": "Wed, Nov, 21, 18:00, Westbourne",
+        "event-s-desc": "Westminster AWARDS 2019",
+        "event-time": "17.00",
+        "event-img": "images/cust-images/eventWFW.jpg",
+        "event-l-des": "Westminster fashion show will showcase international as well as local designer wear which will assist to promote many summer wear. This is held at Shalhevet School, Bayeswater, the official hall for fashion. Fashion week designers get a head start on the key trends of the coming season and Will get an opportunity to listen to talks by industry experts. Westminster Fashion Week Festival allows consumers to shop a curated edit of designer collections."
+      }
+    ]
+  }
+}
+
+

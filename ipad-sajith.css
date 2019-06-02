@@ -1,0 +1,188 @@
+body {
+    font-family: 'Montserrat', sans-serif !important;
+    background-color: #ffffff;
+}
+
+.ui-content {
+    padding: 15px 30px;
+}
+
+.ui-overlay-a, .ui-page-theme-a, .ui-page-theme-a .ui-panel-wrapper {
+    background-color: #ffffff;
+}
+
+#slideshow {
+    /*margin-top: -15px;*/
+}
+
+.img-crsl {
+    height: 300px;
+    object-fit: cover;
+    object-position: top;
+}
+
+.cust-add {
+    width: 30px !important;
+    background-color: transparent !important;
+}
+
+.title-main h3 {
+    margin-bottom: 0;
+    font-weight: 500;
+    font-size: 21px;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.news-block-img {
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    -webkit-box-shadow: 0px 1px 19px 0px rgba(222, 222, 222, 1);
+    -moz-box-shadow: 0px 1px 19px 0px rgba(222, 222, 222, 1);
+    box-shadow: 0px 1px 19px 0px rgba(222, 222, 222, 1);
+    height: 200px;
+}
+
+.info {
+    border: 1px solid #dedede;
+    padding: 5px 6px;
+    -webkit-box-shadow: 0px 1px 5px 0px rgba(224, 224, 224, 1);
+    -moz-box-shadow: 0px 1px 5px 0px rgba(224, 224, 224, 1);
+    box-shadow: 0px 1px 5px 0px rgba(224, 224, 224, 1);
+}
+
+.news-block {
+    margin: 0 -10px;
+}
+
+.single-block {
+    height: auto;
+    margin: 5px;
+
+}
+
+.desi {
+    position: absolute;
+    color: white;
+    font-size: 27px;
+    top: 42%;
+    right: 42%;
+    font-weight: 500;
+}
+
+.news-page .times-ago p {
+    margin: 0;
+    margin-left: 20px;
+    text-align: right;
+    min-height: auto;
+    color: #c3bfbf;
+    font-size: 13px;
+}
+
+.news-block-page .news-block-img {
+    height: 260px;
+
+}
+
+#map-page, div[id^="map-canvas"] {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+
+.map {
+    width: 100%;
+    height: 350px;
+    padding: 15px 30px;
+}
+
+#event-header {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.ui-btn:hover {
+    background-color: white;
+    border: none;
+}
+
+#event-header {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.search-ico {
+    width: 25px;
+}
+
+/*collape header border remove*/
+.ui-collapsible-heading, .ui-collapsible-heading > .ui-btn {
+    background-color: white;
+    border: none;
+}
+
+/*collape toggle header blue box shadow remove*/
+.collapsibles h4 a.ui-collapsible-heading-toggle {
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+/*buy ticket button*/
+.event-button {
+    border: 1px solid black;
+    padding: 1px 5px;
+    font-size: 12px;
+    color: #ffffff !important;
+    font-weight: 500 !important;
+    background-color: #000000 !important;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+
+}
+
+.event-button:hover {
+    text-decoration: none;
+}
+
+/*remove default line from list */
+.ui-listview > .ui-li-static {
+    border-style: none;
+
+}
+
+.event-span {
+    padding-left: 50px;
+}
+
+/*.ui-page-theme-a .ui-btn:hover {
+    background-color: white;
+    color: black;
+}*/
+
+/*collape toggle icon change*/
+.event-collapse .ui-icon-plus:after {
+    background: url("../images/icons-png/event-plus.png") no-repeat;
+    -webkit-filter: drop-shadow(0 3px 2px hsla(0, 0%, 0%, .35));
+    background-size: 50px 50px;
+    background-position: center center;
+}
+
+/*collapse toggle icon change*/
+.event-collapse .ui-icon-minus:after {
+    background: url("../images/icons-png/event-minus.png") no-repeat;
+    -webkit-filter: drop-shadow(0 3px 2px hsla(0, 0%, 0%, .35));
+    background-size: 50px 50px;
+    background-position: center center;
+}
+
+#payment-detail {
+    border: 1px solid black;
+}
+
+#text-cardMM, #text-cardYY {
+    width: 20px;
+}

@@ -1,0 +1,74 @@
+
+/*Log in*/
+.login2 {
+    padding: 25px;
+    padding-bottom: 0px;
+    padding-top: inherit;
+}
+
+.loginSocialmedia {
+    padding: 2px;
+}
+
+.buttonFacebook .ui-btn{
+    background-color: #ffffff;
+    border-color: #000000;
+    color: #333;
+    text-shadow: 0 1px 0 #ffffff;
+    border-radius: 0px;
+}
+
+.buttonFacebook .ui-btn.ui-btn-active {
+    background-color: #000000;
+    border-color: #000000;
+    color: #fff;
+    text-shadow: none;
+}
+
+.buttonLogin1 .ui-btn:active{
+    background-color:#ffffff;
+    border-color: #000000;
+    color: #333333;
+    text-shadow: 0 1px 0 #f3f3f3;
+}
+
+.buttonLogin1 .ui-btn{
+    background-color: #ffffff;
+    border-color: #000000;
+    color: #333;
+    text-shadow: 0 1px 0 #ffffff;
+    border-radius: 0px;
+    width: 107px;
+}
+/*Log in*/
+
+/*Sign up page*/
+.signup2yo {
+    padding: 25px;
+    padding-bottom: 0px;
+}
+
+.signupPage .ui-content {
+    padding: 60px 30px;
+}
+
+/*Sign up page*/
+
+/*Explore page*/
+.explore-list .ui-page-theme-a .ui-btn{
+    background-color: #ffffff;
+    border-color: #ced4da;
+    color: #333;
+    text-shadow: 0 1px 0 #f3f3f3;
+}
+/*Explore page*/
+
+/*favourite single*/
+.edit-btn{
+    width: 71px;
+    float: right;
+    margin: 0;
+    background-color: #ffffff !important;
+    border: none;
+}
+/*favourite single*/

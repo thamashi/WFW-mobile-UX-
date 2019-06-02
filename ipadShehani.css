@@ -1,0 +1,894 @@
+/*Footer styling*/
+
+body {
+    font-family: 'Montserrat', sans-serif !important;
+    background-color: #ffffff;
+}
+
+.ui-content {
+    padding: 30px 90px;
+}
+
+.ui-overlay-a, .ui-page-theme-a, .ui-page-theme-a .ui-panel-wrapper {
+    background-color: #ffffff;
+}
+
+
+.ui-page-theme-a .ui-btn:hover, html .ui-bar-a .ui-btn:hover, html .ui-body-a .ui-btn:hover, html body .ui-group-theme-a .ui-btn:hover, html head+body .ui-btn.ui-btn-a:hover {
+    background-color: #f6f6f6;
+    border-color: #ddd;
+    color: #333;
+    text-shadow: 0 1px 0 #f3f3f3;
+}
+
+.ui-page-theme-a .ui-btn, html .ui-bar-a .ui-btn, html .ui-body-a .ui-btn, html body .ui-group-theme-a .ui-btn, html head+body .ui-btn.ui-btn-a, .ui-page-theme-a .ui-btn:visited, html .ui-bar-a .ui-btn:visited, html .ui-body-a .ui-btn:visited, html body .ui-group-theme-a .ui-btn:visited, html head+body .ui-btn.ui-btn-a:visited {
+    background-color: #ffffff;
+    border-color: #ddd;
+    color: #333;
+    text-shadow: 0 1px 0 #f3f3f3;
+}
+
+
+
+.shadow-head {
+    -webkit-box-shadow: 0px 0px 15px 0px rgba(201, 199, 201, 1);
+    -moz-box-shadow: 0px 0px 15px 0px rgba(201, 199, 201, 1);
+    box-shadow: 0px 0px 15px 0px rgba(201, 199, 201, 1);
+}
+
+.ipad-foot-ico {
+    width: 25px;
+}
+
+.ipad-footer-cust {
+    background-color: #ffffff !important;
+    border: transparent !important;
+
+}
+
+.ipad-footer-cust h4 {
+    font-size: 16px !important;
+
+}
+
+.add-line::before {
+    right: 100%;
+}
+
+.add-line::after {
+    left: 100%;
+}
+
+.add-line::before, .add-line::after {
+    content: "";
+    position: absolute;
+    height: 5px;
+    border-bottom: 1px solid;
+    top: 9px;
+    width: 100vh;
+}
+
+/*Footer styling*/
+
+
+
+/* Header Styling*/
+
+
+.main-logo {
+    width: 250px;
+    height: 65px;
+    margin-left: 5px;
+}
+
+.ipad-head-cust {
+    background-color: #ffffff !important;
+    margin-top: -1px;
+}
+
+.list-cust {
+    margin-top: 30px !important;
+}
+
+.burger-image {
+    margin: 8px 11px;
+    width: 25px;
+    position: relative;
+    right: -1px;
+}
+
+.wrap-b-img {
+    float: right;
+    background-color: #000000;
+}
+
+.br-under {
+    border-bottom: 1px solid #dbdbdb;
+    padding-bottom: 20px;
+    margin: 0 -16px !important;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.user {
+    /*background-color: black;*/
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-image: url("../images/cust-images/Sajiya.jpeg");
+    border: 1px solid #f3f3f3;
+}
+
+.user-name {
+    margin-bottom: 0;
+    font-size: 13px;
+}
+
+.right-arrow img {
+    width: 25px;
+}
+
+.main-logo {
+    width: 116px;
+    height: 37px;
+    margin-left: 5px;
+}
+
+.wrap-b-img {
+    float: right;
+    background-color: #000000;
+}
+
+/*Menu styling */
+
+.list-cust .ui-btn-icon-right:after {
+    display: none !important;
+}
+
+.list-cust a {
+    padding: 11px 5px;
+    border: transparent !important;
+    background-color: transparent !important;
+    font-weight: 400;
+
+}
+
+.list-cust li {
+    border: transparent !important;
+    padding: 0 30px !important;
+}
+
+.br-under {
+    border-bottom: 1px solid #dbdbdb;
+    padding-bottom: 18px;
+    margin: 0 -16px !important;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+.list-cust .menu-ico {
+    width: 40px;
+}
+
+.list-cust p {
+    text-transform: uppercase;
+    margin: 0;
+    color: #000000 !important;
+}
+
+.social-share {
+    margin-top: 120px;
+}
+
+.social-share img {
+    width: 35px;
+}
+
+.ui-panel-inner {
+    height: 100vh !important;
+}
+
+/*Menu styling*/
+
+/* Header Styling */
+
+
+/*Designers Page*/
+
+
+.designer-block {
+    margin: 0 -10px;
+}
+.designer-pic {
+    padding-top: 150%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+}
+
+.designer-name {
+    position: absolute;
+    bottom: 14px;
+    right: 0;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+    padding: 15px 15px;
+    text-align: left !important;
+    font-weight: 500;
+}
+
+.cust-input {
+    padding: 18px 33px 18px 12px !important;
+    border: 1px solid #d6d1d1 !important;
+    outline: none !important;
+    font-size: 13px;
+    text-shadow: none !important;
+    height: 50px;
+    border-radius: 0 !important;
+}
+
+.designer-page .ui-body-a, .ui-page-theme-a .ui-body-inherit, html .ui-bar-a .ui-body-inherit, html .ui-body-a .ui-body-inherit, html body .ui-group-theme-a .ui-body-inherit, html .ui-panel-page-container-a {
+    border-color: transparent !important;
+    background-color: white !important;
+
+}
+
+.ui-shadow-inset {
+    box-shadow: transparent;
+}
+
+.search-bar {
+    margin: 20px 0;
+    position: relative;
+    margin: 0 auto;
+    width: 500px;
+
+}
+
+.search-bar img {
+    width: 20px;
+    position: absolute;
+    top: 15px;
+    right: 7px;
+}
+
+.filter-by .ui-mini {
+    margin: 0;
+}
+
+.filter-by .ui-shadow {
+    box-shadow: none;
+    border-radius: 0;
+    border: 1px solid #d6d1d1 !important;
+    font-weight: 500;
+    color: #d6d1d1;
+}
+
+.filter-by .ui-focus {
+    border: 1px solid #d6d1d1 !important;
+    color: #000000 !important;
+    font-weight: 500;
+
+}
+
+.filter-by .ui-btn-active {
+    border: 1px solid #d6d1d1 !important;
+    border-color: #d6d1d1 !important;
+    text-shadow: none !important;
+    font-weight: 500;
+    color: #d6d1d1;
+}
+
+.filter-by {
+    margin: 20px auto ;
+    width: 500px;
+}
+
+.top-page {
+    padding: 0 20px;
+}
+
+.filter-by .ui-select .ui-btn select {
+    font-weight: 500 !important;
+}
+
+.filter-by .ui-page-theme-a .ui-btn:active, html .ui-bar-a .ui-btn:active, html .ui-body-a .ui-btn:active, html body .ui-group-theme-a .ui-btn:active, html head + body .ui-btn.ui-btn-a:active {
+    text-shadow: none !important;
+}
+
+.filter-by .ui-page-theme-a .ui-btn:hover, html .ui-bar-a .ui-btn:hover, html .ui-body-a .ui-btn:hover, html body .ui-group-theme-a .ui-btn:hover, html head + body .ui-btn.ui-btn-a:hover {
+    text-shadow: none !important;
+}
+
+.ui-btn.ui-btn-active {
+
+}
+
+.ui-mini .ui-btn-icon-right:after {
+    background: url("../images/cust-images/downArrow.png") no-repeat;
+    background-size: 20px 22px;
+    background-position: center center;
+}
+/*Designers Page*/
+
+
+/*Designer Single page*/
+
+.designer-image {
+    padding: 0 20%;
+}
+
+.designer-image img {
+    width: 100%;
+}
+
+.mc-title {
+    margin-bottom: 20px;
+}
+
+.designer-collapse .ui-btn-icon-notext:after, .ui-btn-icon-left:after, .ui-btn-icon-right:after {
+    right: 16px;
+    left: unset;
+}
+
+.designer-single .ui-btn-icon-notext:after, .ui-btn-icon-left:after, .ui-btn-icon-right:after {
+    background: url(../images/cust-images/downArrow.png) no-repeat;
+    background-size: 20px 22px;
+    background-position: center center;
+}
+
+.designer-single .mc-title {
+    margin-bottom: 5px;
+}
+
+.designer-single .ui-btn-icon-left {
+    padding-left: 16px;
+}
+
+.designer-single .ui-collapsible-heading-toggle {
+    border-bottom: 1px solid lightgray;
+    border-top: 1px solid lightgray;
+}
+
+.designer-single .ui-collapsible-heading-toggle:active {
+    border-bottom: 1px solid lightgray;
+    border-top: 1px solid lightgray;
+}
+
+.designer-single .main-collapse {
+    margin-top: 20px;
+}
+
+.designer-single p {
+    font-size: 13px;
+}
+
+.designer-single .ui-collapsible {
+    margin: 0;
+}
+
+/* About Us*/
+
+.title-main h3 {
+    margin-bottom: 0;
+    font-weight: 500;
+    font-size: 21px;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+
+.aboutUs2-img {
+    height: 12%;
+    border-radius: 63%;
+}
+.about-footer{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+}
+
+/*Contact Us page*/
+
+.input-block .ui-input-text {
+    margin: 0;
+}
+
+.input-block label {
+    margin: 0;
+    text-align: left;
+    font-size: 13px;
+}
+
+.input-block {
+    margin: 32px 0;
+}
+
+.form-div {
+    margin-top: 10px;
+}
+
+
+.contact-us .filter-by span {
+    text-align: left;
+}
+
+.contact-us .filter-by .ui-mini .ui-btn-icon-right:after {
+    right: 9px;
+}
+
+.contact-us .ui-shadow-inset {
+    box-shadow: none;
+}
+
+.contact-us .ui-textinput-autogrow {
+    border: 1px solid #d6d1d1 !important;
+    resize: none;
+    padding: 15px 9px !important;
+}
+
+.contact-us .secondary-btn {
+    padding: 6px 15px;
+}
+
+.contact-us .locate-btn {
+    margin-top: 10px;
+
+}
+
+.contact-footer{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+}
+
+.contact-us .form-div{
+    display: block;
+    border: 1px solid #000000;
+    padding: 0 30px 70px 30px;
+
+
+}
+
+.action-btn{
+    text-align: right;
+}
+
+/*Contact Us page*/
+
+.locate-btn {
+    float: right;
+    margin-left: 2px;
+}
+
+.secondary-btn {
+    border: 1px solid #000000;
+    font-size: 13px;
+    padding: 1px 5px;
+    color: #000000 !important;
+    font-weight: 500 !important;
+}
+
+
+
+
+.team-member-footer{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+}
+
+
+
+/* share icons*/
+.fav-custom-btn {
+    width: 30px !important;
+    height: 30px !important;
+    border-radius: 60% !important;
+    background: url("../images/icons-png/like.png") center center no-repeat;
+
+}
+
+.rate-custom-btn {
+    width: 30px !important;
+    height: 30px !important;
+    border-radius: 60% !important;
+    background: url("../images/icons-png/star.png") center center no-repeat;
+
+}
+
+.book-custom-btn {
+    width: 30px !important;
+    height: 30px !important;
+    border-radius: 60% !important;
+    background: url("../images/icons-png/bookmark-white.png") center center no-repeat;
+
+}
+
+.share-custom-btn {
+    width: 30px !important;
+    height: 30px !important;
+    border-radius: 60% !important;
+    background: url("../images/icons-png/share.png") center center no-repeat;
+
+}
+
+/* Team member single */
+
+.member-data {
+    margin-left: 40px;
+}
+
+/*News Single page*/
+
+.news-title h3 {
+    font-size: 25px !important;
+    font-weight: 600;
+}
+
+
+/*Coupons*/
+.coupon-text {
+    position: absolute;
+    bottom: 80%;
+}
+.coupon-text2 {
+    position: absolute;
+    bottom: 50%;
+}
+
+.coupon-text3 {
+    position: absolute;
+    bottom: 10%;
+    font-size: small;
+}
+
+.coupon-text4 {
+    position: absolute;
+    bottom: 35%;
+    font-size: small;
+}
+
+.coupon-block-img {
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    -webkit-box-shadow: 0px 1px 19px 0px rgba(222, 222, 222, 1);
+    -moz-box-shadow: 0px 1px 19px 0px rgba(222, 222, 222, 1);
+    box-shadow: 0px 1px 19px 0px rgba(222, 222, 222, 1);
+    opacity: 0.5;
+}
+
+.coupon-block-img2 {
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    -webkit-box-shadow: 0px 1px 19px 0px rgba(222, 222, 222, 1);
+    -moz-box-shadow: 0px 1px 19px 0px rgba(222, 222, 222, 1);
+    box-shadow: 0px 1px 19px 0px rgba(222, 222, 222, 1);
+    opacity: 0.25;
+}
+
+
+
+.coupon-block-img3 {
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    -webkit-box-shadow: 0px 1px 19px 0px rgba(222, 222, 222, 1);
+    -moz-box-shadow: 0px 1px 19px 0px rgba(222, 222, 222, 1);
+    box-shadow: 0px 1px 19px 0px rgba(222, 222, 222, 1);
+    opacity: 0.25;
+}
+
+.coupon-icon{
+    position: absolute;
+    bottom: 20%;
+    padding: 130px;
+    opacity: 0.75;
+}
+
+/*Coupons*/
+
+/*Favourites page*/
+.fav-title h3 {
+    font-size: 25px !important;
+    font-weight: 600;
+    text-align: center;
+}
+
+.ui-icon-poi-img {
+    background-image: url("../images/icons-svg/star-black.svg");
+}
+
+.event-fav-img {
+    margin: 10px;
+    width: 75% !important;
+    height: 100% !important;
+}
+
+.behind {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.behind a.ui-btn {
+    width: 65px;
+    margin: 0px;
+    float: right;
+    border: none;
+}
+
+.behind a.delete-btn, .behind a.delete-btn:active, .behind a.delete-btn:visited, .behind a.delete-btn:focus, .behind a.delete-btn:hover {
+    color: white;
+    background-color: red;
+    text-shadow: none;
+    text-align: center;
+    width: 100px;
+    padding-top: 43px;
+    margin-left: 43px;
+    height: 100%;
+
+}
+
+
+.email-btn {
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 60% !important;
+    background: url("../images/cust-images/mail-ash-envelope-symbol.png") center center no-repeat;
+
+}
+
+.nav-fav .ui-btn.ui-btn-active {
+    background-color: #000000;
+    border-color: #000000;
+    color: #fff;
+    text-shadow: none;
+}
+
+.nav-fav .ui-navbar .ui-btn:focus {
+    border: 1px solid #000000;
+}
+
+.nav-fav .ui-btn-icon-left:after, .ui-btn-icon-right:after {
+    /* background: url(../images/cust-images/downArrow.png) no-repeat; */
+    background-size: 20px 22px;
+    background-position: center center;
+}
+
+
+.nav-fav{
+    margin-top: 20px;
+}
+.fav-row{
+    height: 100px;
+}
+
+.event-fav-cust-img {
+    width: 100px;
+    height: 100px;
+}
+
+.poi-fav {
+    display: inline;
+
+}
+
+.events-fav {
+    display: inline;
+}
+
+.members-fav {
+    display: inline;
+}
+
+.news-fav {
+    display: inline;
+}
+
+
+.edit-btn{
+    width: 70px !important;
+    height: 40px !important;
+    position: relative;
+    border: none;
+    float:right;
+
+}
+/*Favourites page*/
+
+
+/*User profile page*/
+
+.user-profile .secondary-btn {
+    padding: 3px 14px;
+}
+
+.user-profile .locate-btn {
+    float: left;
+    margin-top: 15px;
+}
+
+/*Tabs styling*/
+
+.user-profile .ui-btn.ui-btn-active {
+    background-color: #000000;
+    border-color: #000000;
+    color: #fff;
+    text-shadow: none;
+}
+
+.user-profile .ui-navbar .ui-btn:focus {
+    border: 1px solid #000000;
+}
+
+.filter-by .ui-btn {
+    background-color: #ffffff;
+}
+
+/*Tabs styling*/
+
+.user-profile .ui-collapsible {
+    width: 100% !important;
+    margin: 0;
+}
+
+.user-profile .mc-title {
+    margin: 10px;
+}
+
+/*.user-profile .main-collapse {
+    margin-top: 30px;
+}*/
+
+.user-profile .ui-icon-plus:after {
+    background: url(../images/cust-images/rounded-add-button.png) no-repeat;
+    background-size: 20px 20px;
+    background-position: center center;
+}
+
+.user-profile .ui-icon-minus:after {
+    background: url("../images/cust-images/minus-circular-outlined-button-symbol.png") no-repeat;
+    background-size: 20px 20px;
+    background-position: center center;
+}
+
+.user-profile .ui-collapsible-heading-toggle {
+    border-bottom: 1px solid lightgray;
+}
+
+.head-collapse .ui-btn:active {
+    background-color: #ffffff;
+    border-color: lightgray;
+    color: #000000;
+    text-shadow: none;
+}
+
+.head-collapse .ui-btn:hover, html .ui-bar-a .ui-btn:hover, html .ui-body-a .ui-btn:hover, html body .ui-group-theme-a .ui-btn:hover, html head + body .ui-btn.ui-btn-a:hover {
+    background-color: #ffffff;
+    border-color: lightgray;
+    color: #000000;
+    text-shadow: none;
+}
+
+.user-profile .ui-tabs-panel {
+    display: block;
+    border: 1px solid #000000;
+    margin-top: 38px;
+}
+
+.user-profile .filter-by .ui-btn {
+    height: 38px !important;
+}
+
+
+/*User profile page*/
+
+.single-block{
+    padding: 1em;
+}
+
+/* Login */
+
+.login2 {
+    padding: 25px;
+    padding-bottom: 0px;
+    padding-top: inherit;
+}
+
+.loginSocialmedia {
+    padding: 2px;
+}
+
+.buttonFacebook .ui-btn{
+    background-color: #ffffff;
+    border-color: #000000;
+    color: #333;
+    text-shadow: 0 1px 0 #ffffff;
+    border-radius: 0px;
+}
+
+.buttonFacebook .ui-btn.ui-btn-active {
+    background-color: #000000;
+    border-color: #000000;
+    color: #fff;
+    text-shadow: none;
+}
+
+.buttonLogin1 .ui-btn{
+    background-color: #ffffff;
+    border-color: #000000;
+    color: #333;
+    text-shadow: 0 1px 0 #ffffff;
+    border-radius: 0px;
+    width: 107px;
+}
+
+.signup2yo {
+    padding: 25px;
+    padding-bottom: 0px;
+}
+
+/*Modifications of login page */
+
+.login-modal {
+    display: block; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.login-modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 95%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.login-close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.login-close:hover,
+.login-close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.login-logo{
+    width: 185px;
+    height: 70px;
+}
+
+
+.error
+{
+    color:red;
+    font-family:verdana, Helvetica;
+}

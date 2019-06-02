@@ -1,0 +1,25 @@
+/*Media queries*/
+
+@media (min-width: 767px) {
+    .designer-image {
+        padding: 0 32%;
+    }
+}
+
+@media (max-width: 375px) {
+    .landing-page {
+        padding-top: 20% ;
+    }
+}
+
+@media (min-width: 667px) {
+    .landing-page {
+        padding-top: 0 !important;
+    }
+}
+
+@media (max-width: 1024px) {
+    .landing-page {
+        padding-top: 20% !important;
+    }
+}
